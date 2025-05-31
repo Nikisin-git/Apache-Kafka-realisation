@@ -1,0 +1,121 @@
+version: "3.9"
+
+services:
+  postgres_db:
+    image: postgres:14.18-alpine3.21
+    container_name: postgres_db
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin -d user_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    environment:
+      POSTGRES_DB: user_db
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: secret
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+  mongo_db:
+    image: mongo:5
+    container_name: mongo_db
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongo", "--eval", "db.adminCommand('ping').ok"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  cache:
+    container_name: cache
+    image: redis:7.2.4-alpine
+    restart: always
+    volumes:
+    - cache_redis:/data
+    healthcheck:
+      test: [ "CMD-SHELL", "redis-cli ping | grep PONG" ]
+      interval: 1s
+      timeout: 3s
+      retries: 5
+    ports:
+     - "6379:6379"
+
+  kafka:
+    image: confluentinc/cp-kafka:7.5.0
+    container_name: kafka
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_NODE_ID: 1
+      KAFKA_PROCESS_ROLES: broker,controller
+      KAFKA_CONTROLLER_QUORUM_VOTERS: 1@kafka:9093
+      KAFKA_LISTENERS: PLAINTEXT://kafka:9092,CONTROLLER://kafka:9093
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT
+      KAFKA_CONTROLLER_LISTENER_NAMES: CONTROLLER
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_LOG_DIRS: /tmp/kraft-combined-logs
+      KAFKA_AUTO_CREATE_TOPICS_ENABLE: "true"
+      CLUSTER_ID: "LKx3fGxNSsmDZh6L9a5svA=="
+    healthcheck:
+      test: ["CMD-SHELL", "echo > /dev/tcp/localhost/9092"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+  user_service:
+    build: ./user_service
+    container_name: user_service
+    depends_on:
+      - postgres_db
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://admin:secret@postgres_db:5432/user_db
+     
+
+  route_service:
+    build: ./route_service
+    container_name: route_service
+    depends_on:
+      kafka:
+        condition: service_healthy
+      mongo_db:
+        condition: service_started
+    ports:
+      - "8001:8000"
+    environment:
+      - MONGODB_URL=mongodb://mongo_db:27017
+      - MONGODB_DB=route_db
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+
+  route_writer_service:
+    build: ./route_writer_service
+    container_name: route_writer_service
+    depends_on:
+      kafka:
+        condition: service_healthy
+      mongo_db:
+        condition: service_started
+    environment:
+      - KAFKA_BOOTSTRAP_SERVERS=kafka:9092
+      - MONGODB_URL=mongodb://mongo_db:27017
+      - MONGODB_DB=route_db
+
+  trip_service:
+    build: ./trip_service
+    container_name: trip_service
+    ports:
+      - "8002:8000"
+
+volumes:
+  db_data:
+  mongo_data:
+  cache_redis:

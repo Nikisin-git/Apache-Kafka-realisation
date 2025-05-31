@@ -1,0 +1,843 @@
+postgres_db  | 
+postgres_db  | PostgreSQL Database directory appears to contain a database; Skipping initialization
+postgres_db  | 
+postgres_db  | 2025-05-31 02:35:02.580 UTC [1] LOG:  starting PostgreSQL 14.18 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres_db  | 2025-05-31 02:35:02.580 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres_db  | 2025-05-31 02:35:02.581 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres_db  | 2025-05-31 02:35:02.612 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres_db  | 2025-05-31 02:35:02.635 UTC [27] LOG:  database system was shut down at 2025-05-31 00:35:54 UTC
+postgres_db  | 2025-05-31 02:35:02.664 UTC [1] LOG:  database system is ready to accept connections
+postgres_db  | 2025-05-31 02:38:45.804 UTC [1] LOG:  received fast shutdown request
+postgres_db  | 2025-05-31 02:38:45.808 UTC [1] LOG:  aborting any active transactions
+postgres_db  | 2025-05-31 02:38:45.812 UTC [1] LOG:  background worker "logical replication launcher" (PID 33) exited with exit code 1
+postgres_db  | 2025-05-31 02:38:45.812 UTC [28] LOG:  shutting down
+postgres_db  | 2025-05-31 02:38:45.848 UTC [1] LOG:  database system is shut down
+postgres_db  | 
+postgres_db  | PostgreSQL Database directory appears to contain a database; Skipping initialization
+postgres_db  | 
+postgres_db  | 2025-05-31 02:38:51.908 UTC [1] LOG:  starting PostgreSQL 14.18 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres_db  | 2025-05-31 02:38:51.909 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres_db  | 2025-05-31 02:38:51.909 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres_db  | 2025-05-31 02:38:51.927 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres_db  | 2025-05-31 02:38:51.943 UTC [27] LOG:  database system was shut down at 2025-05-31 02:38:45 UTC
+postgres_db  | 2025-05-31 02:38:51.958 UTC [1] LOG:  database system is ready to accept connections
+postgres_db  | 2025-05-31 02:42:32.587 UTC [1] LOG:  received fast shutdown request
+postgres_db  | 2025-05-31 02:42:32.592 UTC [1] LOG:  aborting any active transactions
+postgres_db  | 2025-05-31 02:42:32.596 UTC [1] LOG:  background worker "logical replication launcher" (PID 33) exited with exit code 1
+postgres_db  | 2025-05-31 02:42:32.596 UTC [28] LOG:  shutting down
+postgres_db  | 2025-05-31 02:42:32.632 UTC [1] LOG:  database system is shut down
+postgres_db  | 
+postgres_db  | PostgreSQL Database directory appears to contain a database; Skipping initialization
+postgres_db  | 
+postgres_db  | 2025-05-31 02:43:37.281 UTC [1] LOG:  starting PostgreSQL 14.18 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres_db  | 2025-05-31 02:43:37.282 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres_db  | 2025-05-31 02:43:37.282 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres_db  | 2025-05-31 02:43:37.311 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres_db  | 2025-05-31 02:43:37.331 UTC [27] LOG:  database system was shut down at 2025-05-31 02:42:32 UTC
+postgres_db  | 2025-05-31 02:43:37.342 UTC [1] LOG:  database system is ready to accept connections
+postgres_db  | 2025-05-31 02:51:52.865 UTC [1] LOG:  received fast shutdown request
+postgres_db  | 2025-05-31 02:51:52.870 UTC [1] LOG:  aborting any active transactions
+postgres_db  | 2025-05-31 02:51:52.874 UTC [1] LOG:  background worker "logical replication launcher" (PID 33) exited with exit code 1
+postgres_db  | 2025-05-31 02:51:52.874 UTC [28] LOG:  shutting down
+postgres_db  | 2025-05-31 02:51:52.902 UTC [1] LOG:  database system is shut down
+postgres_db  | 
+postgres_db  | PostgreSQL Database directory appears to contain a database; Skipping initialization
+postgres_db  | 
+postgres_db  | 2025-05-31 02:52:05.954 UTC [1] LOG:  starting PostgreSQL 14.18 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres_db  | 2025-05-31 02:52:05.954 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres_db  | 2025-05-31 02:52:05.954 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres_db  | 2025-05-31 02:52:05.965 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres_db  | 2025-05-31 02:52:05.975 UTC [27] LOG:  database system was shut down at 2025-05-31 02:51:52 UTC
+postgres_db  | 2025-05-31 02:52:05.985 UTC [1] LOG:  database system is ready to accept connections
+postgres_db  | 2025-05-31 02:53:19.708 UTC [1] LOG:  received fast shutdown request
+postgres_db  | 2025-05-31 02:53:19.713 UTC [1] LOG:  aborting any active transactions
+postgres_db  | 2025-05-31 02:53:19.716 UTC [1] LOG:  background worker "logical replication launcher" (PID 33) exited with exit code 1
+postgres_db  | 2025-05-31 02:53:19.717 UTC [28] LOG:  shutting down
+postgres_db  | 2025-05-31 02:53:19.752 UTC [1] LOG:  database system is shut down
+postgres_db  | 
+postgres_db  | PostgreSQL Database directory appears to contain a database; Skipping initialization
+postgres_db  | 
+postgres_db  | 2025-05-31 02:55:53.112 UTC [1] LOG:  starting PostgreSQL 14.18 on x86_64-pc-linux-musl, compiled by gcc (Alpine 14.2.0) 14.2.0, 64-bit
+postgres_db  | 2025-05-31 02:55:53.113 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+postgres_db  | 2025-05-31 02:55:53.113 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+postgres_db  | 2025-05-31 02:55:53.127 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+postgres_db  | 2025-05-31 02:55:53.150 UTC [27] LOG:  database system was shut down at 2025-05-31 02:53:19 UTC
+postgres_db  | 2025-05-31 02:55:53.164 UTC [1] LOG:  database system is ready to accept connections
+postgres_db  | 2025-05-31 03:07:20.340 UTC [1] LOG:  received fast shutdown request
+postgres_db  | 2025-05-31 03:07:20.345 UTC [1] LOG:  aborting any active transactions
+postgres_db  | 2025-05-31 03:07:20.349 UTC [1] LOG:  background worker "logical replication launcher" (PID 33) exited with exit code 1
+postgres_db  | 2025-05-31 03:07:20.351 UTC [28] LOG:  shutting down
+postgres_db  | 2025-05-31 03:07:20.390 UTC [1] LOG:  database system is shut down
+user_service  | INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+user_service  | INFO  [alembic.runtime.migration] Will assume transactional DDL.
+user_service  | 2025-05-31 03:06:50,302 INFO sqlalchemy.engine.Engine select pg_catalog.version()
+user_service  | 2025-05-31 03:06:50,303 INFO sqlalchemy.engine.Engine [raw sql] ()
+user_service  | 2025-05-31 03:06:50,305 INFO sqlalchemy.engine.Engine select current_schema()
+user_service  | 2025-05-31 03:06:50,305 INFO sqlalchemy.engine.Engine [raw sql] ()
+user_service  | 2025-05-31 03:06:50,307 INFO sqlalchemy.engine.Engine show standard_conforming_strings
+user_service  | 2025-05-31 03:06:50,307 INFO sqlalchemy.engine.Engine [raw sql] ()
+user_service  | 2025-05-31 03:06:50,308 INFO sqlalchemy.engine.Engine BEGIN (implicit)
+user_service  | 2025-05-31 03:06:50,311 INFO sqlalchemy.engine.Engine SELECT users.full_name, users.login, users.hashed_password, users.email, users.age, users.id 
+user_service  | FROM users 
+user_service  | WHERE users.login = $1::VARCHAR
+user_service  | 2025-05-31 03:06:50,311 INFO sqlalchemy.engine.Engine [generated in 0.00018s] ('admin',)
+user_service  | 👤 Admin already exists
+user_service  | 2025-05-31 03:06:50,317 INFO sqlalchemy.engine.Engine ROLLBACK
+user_service  | 2025-05-31 03:06:52,001 INFO sqlalchemy.engine.Engine select pg_catalog.version()
+user_service  | 2025-05-31 03:06:52,001 INFO sqlalchemy.engine.Engine [raw sql] ()
+user_service  | 2025-05-31 03:06:52,003 INFO sqlalchemy.engine.Engine select current_schema()
+user_service  | 2025-05-31 03:06:52,003 INFO sqlalchemy.engine.Engine [raw sql] ()
+user_service  | 2025-05-31 03:06:52,005 INFO sqlalchemy.engine.Engine show standard_conforming_strings
+user_service  | 2025-05-31 03:06:52,005 INFO sqlalchemy.engine.Engine [raw sql] ()
+user_service  | 2025-05-31 03:06:52,006 INFO sqlalchemy.engine.Engine BEGIN (implicit)
+user_service  | 2025-05-31 03:06:52,009 INFO sqlalchemy.engine.Engine SELECT count(*) AS count_1 
+user_service  | FROM users
+user_service  | 2025-05-31 03:06:52,009 INFO sqlalchemy.engine.Engine [generated in 0.00013s] ()
+user_service  | 📦 Found 101 users — dummy users not needed.
+user_service  | 2025-05-31 03:06:52,012 INFO sqlalchemy.engine.Engine ROLLBACK
+user_service  | INFO:     Started server process [1]
+user_service  | INFO:     Waiting for application startup.
+user_service  | INFO:     Application startup complete.
+user_service  | INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+user_service  | INFO:     Shutting down
+user_service  | INFO:     Waiting for application shutdown.
+user_service  | INFO:     Application shutdown complete.
+user_service  | INFO:     Finished server process [1]
+kafka         | ===> User
+kafka         | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
+kafka         | ===> Configuring ...
+kafka         | Running in KRaft mode...
+kafka         | ===> Running preflight checks ... 
+kafka         | ===> Check if /var/lib/kafka/data is writable ...
+kafka         | ===> Running in KRaft mode, skipping Zookeeper health check...
+kafka         | ===> Using provided cluster id LKx3fGxNSsmDZh6L9a5svA== ...
+kafka         | ===> Launching ... 
+kafka         | ===> Launching kafka ... 
+kafka         | [2025-05-31 02:55:59,312] INFO Registered kafka:type=kafka.Log4jController MBean (kafka.utils.Log4jControllerRegistration$)
+kafka         | [2025-05-31 02:55:59,564] INFO Setting -D jdk.tls.rejectClientInitiatedRenegotiation=true to disable client-initiated TLS renegotiation (org.apache.zookeeper.common.X509Util)
+kafka         | [2025-05-31 02:55:59,674] INFO Registered signal handlers for TERM, INT, HUP (org.apache.kafka.common.utils.LoggingSignalHandler)
+kafka         | [2025-05-31 02:55:59,680] INFO [ControllerServer id=1] Starting controller (kafka.server.ControllerServer)
+kafka         | [2025-05-31 02:55:59,974] INFO Updated connection-accept-rate max connection creation rate to 2147483647 (kafka.network.ConnectionQuotas)
+kafka         | [2025-05-31 02:56:00,027] INFO [SocketServer listenerType=CONTROLLER, nodeId=1] Created data-plane acceptor and processors for endpoint : ListenerName(CONTROLLER) (kafka.network.SocketServer)
+kafka         | [2025-05-31 02:56:00,030] INFO [SharedServer id=1] Starting SharedServer (kafka.server.SharedServer)
+kafka         | [2025-05-31 02:56:00,086] INFO [LogLoader partition=__cluster_metadata-0, dir=/tmp/kraft-combined-logs] Loading producer state till offset 0 with message format version 2 (kafka.log.UnifiedLog$)
+kafka         | [2025-05-31 02:56:00,086] INFO [LogLoader partition=__cluster_metadata-0, dir=/tmp/kraft-combined-logs] Reloading from producer snapshot and rebuilding producer state from offset 0 (kafka.log.UnifiedLog$)
+kafka         | [2025-05-31 02:56:00,086] INFO [LogLoader partition=__cluster_metadata-0, dir=/tmp/kraft-combined-logs] Producer state recovery took 0ms for snapshot load and 0ms for segment recovery from offset 0 (kafka.log.UnifiedLog$)
+kafka         | [2025-05-31 02:56:00,120] INFO Initialized snapshots with IDs SortedSet() from /tmp/kraft-combined-logs/__cluster_metadata-0 (kafka.raft.KafkaMetadataLog$)
+kafka         | [2025-05-31 02:56:00,135] INFO [raft-expiration-reaper]: Starting (kafka.raft.TimingWheelExpirationService$ExpiredOperationReaper)
+kafka         | [2025-05-31 02:56:00,272] INFO [RaftManager id=1] Completed transition to Unattached(epoch=0, voters=[1], electionTimeoutMs=1557) from null (org.apache.kafka.raft.QuorumState)
+kafka         | [2025-05-31 02:56:00,283] INFO [RaftManager id=1] Completed transition to CandidateState(localId=1, epoch=1, retries=1, voteStates={1=GRANTED}, highWatermark=Optional.empty, electionTimeoutMs=1945) from Unattached(epoch=0, voters=[1], electionTimeoutMs=1557) (org.apache.kafka.raft.QuorumState)
+kafka         | [2025-05-31 02:56:00,296] INFO [RaftManager id=1] Completed transition to Leader(localId=1, epoch=1, epochStartOffset=0, highWatermark=Optional.empty, voterStates={1=ReplicaState(nodeId=1, endOffset=Optional.empty, lastFetchTimestamp=-1, lastCaughtUpTimestamp=-1, hasAcknowledgedLeader=true)}) from CandidateState(localId=1, epoch=1, retries=1, voteStates={1=GRANTED}, highWatermark=Optional.empty, electionTimeoutMs=1945) (org.apache.kafka.raft.QuorumState)
+kafka         | [2025-05-31 02:56:00,337] INFO [kafka-1-raft-outbound-request-thread]: Starting (kafka.raft.RaftSendThread)
+kafka         | [2025-05-31 02:56:00,337] INFO [kafka-1-raft-io-thread]: Starting (kafka.raft.KafkaRaftManager$RaftIoThread)
+kafka         | [2025-05-31 02:56:00,361] INFO [ControllerServer id=1] Waiting for controller quorum voters future (kafka.server.ControllerServer)
+kafka         | [2025-05-31 02:56:00,361] INFO [MetadataLoader id=1] initializeNewPublishers: the loader is still catching up because we still don't know the high water mark yet. (org.apache.kafka.image.loader.MetadataLoader)
+kafka         | [2025-05-31 02:56:00,361] INFO [ControllerServer id=1] Finished waiting for controller quorum voters future (kafka.server.ControllerServer)
+kafka         | [2025-05-31 02:56:00,364] INFO [RaftManager id=1] High watermark set to LogOffsetMetadata(offset=1, metadata=Optional[(segmentBaseOffset=0,relativePositionInSegment=91)]) for the first time for epoch 1 based on indexOfHw 0 and voters [ReplicaState(nodeId=1, endOffset=Optional[LogOffsetMetadata(offset=1, metadata=Optional[(segmentBaseOffset=0,relativePositionInSegment=91)])], lastFetchTimestamp=-1, lastCaughtUpTimestamp=-1, hasAcknowledgedLeader=true)] (org.apache.kafka.raft.LeaderState)
+kafka         | [2025-05-31 02:56:00,381] INFO [RaftManager id=1] Registered the listener org.apache.kafka.image.loader.MetadataLoader@1626061044 (org.apache.kafka.raft.KafkaRaftClient)
+kafka         | [2025-05-31 02:56:00,389] INFO [MetadataLoader id=1] handleCommit: The loader is still catching up because we have loaded up to offset -1, but the high water mark is 1 (org.apache.kafka.image.loader.MetadataLoader)
+kafka         | [2025-05-31 02:56:00,400] INFO [QuorumController id=1] Creating new QuorumController with clusterId LKx3fGxNSsmDZh6L9a5svA, authorizer Optional.empty. (org.apache.kafka.controller.QuorumController)
+trip_service  | INFO:     Started server process [1]
+trip_service  | INFO:     Waiting for application startup.
+trip_service  | INFO:     Application startup complete.
+trip_service  | INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+trip_service  | INFO:     Shutting down
+kafka         | [2025-05-31 02:56:00,400] INFO [RaftManager id=1] Registered the listener org.apache.kafka.controller.QuorumController$QuorumMetaLogListener@1767370255 (org.apache.kafka.raft.KafkaRaftClient)
+cache         | 1:C 31 May 2025 02:35:02.641 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+trip_service  | INFO:     Waiting for application shutdown.
+trip_service  | INFO:     Application shutdown complete.
+trip_service  | INFO:     Finished server process [1]
+kafka         | [2025-05-31 02:56:00,403] INFO [QuorumController id=1] Becoming the active controller at epoch 1, committed offset -1, committed epoch -1 (org.apache.kafka.controller.QuorumController)
+cache         | 1:C 31 May 2025 02:35:02.641 * Redis version=7.2.4, bits=64, commit=00000000, modified=0, pid=1, just started
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.712+00:00"},"s":"I",  "c":"CONTROL",  "id":23285,   "ctx":"main","msg":"Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.713+00:00"},"s":"I",  "c":"NETWORK",  "id":4915701, "ctx":"main","msg":"Initialized wire specification","attr":{"spec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":13},"incomingInternalClient":{"minWireVersion":0,"maxWireVersion":13},"outgoing":{"minWireVersion":0,"maxWireVersion":13},"isInternalClient":true}}}
+cache         | 1:C 31 May 2025 02:35:02.641 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+cache         | 1:M 31 May 2025 02:35:02.642 * monotonic clock: POSIX clock_gettime
+cache         | 1:M 31 May 2025 02:35:02.644 * Running mode=standalone, port=6379.
+cache         | 1:M 31 May 2025 02:35:02.648 * Server initialized
+cache         | 1:M 31 May 2025 02:35:02.649 * Loading RDB produced by version 7.2.4
+cache         | 1:M 31 May 2025 02:35:02.649 * RDB age 7208 seconds
+cache         | 1:M 31 May 2025 02:35:02.649 * RDB memory usage when created 0.86 Mb
+cache         | 1:M 31 May 2025 02:35:02.649 * Done loading RDB, keys loaded: 28, keys expired: 0.
+cache         | 1:M 31 May 2025 02:35:02.650 * DB loaded from disk: 0.002 seconds
+cache         | 1:M 31 May 2025 02:35:02.650 * Ready to accept connections tcp
+cache         | 1:signal-handler (1748659124) Received SIGTERM scheduling shutdown...
+cache         | 1:M 31 May 2025 02:38:44.962 * User requested shutdown...
+cache         | 1:M 31 May 2025 02:38:44.962 * Saving the final RDB snapshot before exiting.
+cache         | 1:M 31 May 2025 02:38:44.972 * DB saved on disk
+kafka         | [2025-05-31 02:56:00,409] INFO [QuorumController id=1] The metadata log appears to be empty. Appending 1 bootstrap record(s) at metadata.version 3.5-IV2 from the binary bootstrap metadata file: /tmp/kraft-combined-logs/bootstrap.checkpoint. (org.apache.kafka.controller.QuorumController)
+kafka         | [2025-05-31 02:56:00,410] INFO [controller-1-ThrottledChannelReaper-Fetch]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 02:56:00,411] INFO [controller-1-ThrottledChannelReaper-Produce]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 02:56:00,412] INFO [QuorumController id=1] Setting metadata version to 3.5-IV2 (org.apache.kafka.controller.FeatureControlManager)
+kafka         | [2025-05-31 02:56:00,413] INFO [controller-1-ThrottledChannelReaper-Request]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 02:56:00,413] INFO [QuorumController id=1] Transitioning ZK migration state from NONE to NONE (org.apache.kafka.controller.FeatureControlManager)
+kafka         | [2025-05-31 02:56:00,415] INFO [controller-1-ThrottledChannelReaper-ControllerMutation]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 02:56:00,432] INFO [ExpirationReaper-1-AlterAcls]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.718+00:00"},"s":"W",  "c":"ASIO",     "id":22601,   "ctx":"main","msg":"No TransportLayer configured during NetworkInterface startup"}
+kafka         | [2025-05-31 02:56:00,437] INFO [SocketServer listenerType=CONTROLLER, nodeId=1] Enabling request processing. (kafka.network.SocketServer)
+kafka         | [2025-05-31 02:56:00,443] INFO Awaiting socket connections on kafka:9093. (kafka.network.DataPlaneAcceptor)
+kafka         | [2025-05-31 02:56:00,447] INFO [ControllerServer id=1] Waiting for all of the authorizer futures to be completed (kafka.server.ControllerServer)
+kafka         | [2025-05-31 02:56:00,447] INFO [ControllerServer id=1] Finished waiting for all of the authorizer futures to be completed (kafka.server.ControllerServer)
+kafka         | [2025-05-31 02:56:00,447] INFO [ControllerServer id=1] Waiting for all of the SocketServer Acceptors to be started (kafka.server.ControllerServer)
+kafka         | [2025-05-31 02:56:00,447] INFO [ControllerServer id=1] Finished waiting for all of the SocketServer Acceptors to be started (kafka.server.ControllerServer)
+kafka         | [2025-05-31 02:56:00,448] INFO [MetadataLoader id=1] handleCommit: The loader finished catching up to the current high water mark of 3 (org.apache.kafka.image.loader.MetadataLoader)
+kafka         | [2025-05-31 02:56:00,451] INFO [ControllerServer id=1] Waiting for the controller metadata publishers to be installed (kafka.server.ControllerServer)
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.719+00:00"},"s":"I",  "c":"NETWORK",  "id":4648601, "ctx":"main","msg":"Implicit TCP FastOpen unavailable. If TCP FastOpen is required, set tcpFastOpenServer, tcpFastOpenClient, and tcpFastOpenQueueSize."}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.723+00:00"},"s":"W",  "c":"ASIO",     "id":22601,   "ctx":"main","msg":"No TransportLayer configured during NetworkInterface startup"}
+kafka         | [2025-05-31 02:56:00,451] INFO [ControllerServer id=1] Finished waiting for the controller metadata publishers to be installed (kafka.server.ControllerServer)
+kafka         | [2025-05-31 02:56:00,453] INFO [BrokerServer id=1] Transition from SHUTDOWN to STARTING (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,453] INFO [MetadataLoader id=1] InitializeNewPublishers: initializing SnapshotGenerator with a snapshot at offset 2 (org.apache.kafka.image.loader.MetadataLoader)
+kafka         | [2025-05-31 02:56:00,453] INFO [BrokerServer id=1] Starting broker (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,454] INFO [MetadataLoader id=1] InitializeNewPublishers: initializing DynamicConfigPublisher controller id=1 with a snapshot at offset 2 (org.apache.kafka.image.loader.MetadataLoader)
+kafka         | [2025-05-31 02:56:00,457] INFO [MetadataLoader id=1] InitializeNewPublishers: initializing DynamicClientQuotaPublisher controller id=1 with a snapshot at offset 2 (org.apache.kafka.image.loader.MetadataLoader)
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.723+00:00"},"s":"I",  "c":"REPL",     "id":5123008, "ctx":"main","msg":"Successfully registered PrimaryOnlyService","attr":{"service":"TenantMigrationDonorService","ns":"config.tenantMigrationDonors"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.723+00:00"},"s":"I",  "c":"REPL",     "id":5123008, "ctx":"main","msg":"Successfully registered PrimaryOnlyService","attr":{"service":"TenantMigrationRecipientService","ns":"config.tenantMigrationRecipients"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.723+00:00"},"s":"I",  "c":"CONTROL",  "id":5945603, "ctx":"main","msg":"Multi threading initialized"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.725+00:00"},"s":"I",  "c":"CONTROL",  "id":4615611, "ctx":"initandlisten","msg":"MongoDB starting","attr":{"pid":1,"port":27017,"dbPath":"/data/db","architecture":"64-bit","host":"d786c3506d44"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.725+00:00"},"s":"I",  "c":"CONTROL",  "id":23403,   "ctx":"initandlisten","msg":"Build Info","attr":{"buildInfo":{"version":"5.0.31","gitVersion":"973237567d45610d6976d5d489dfaaef6a52c2f9","openSSLVersion":"OpenSSL 1.1.1f  31 Mar 2020","modules":[],"allocator":"tcmalloc","environment":{"distmod":"ubuntu2004","distarch":"x86_64","target_arch":"x86_64"}}}}
+cache         | 1:M 31 May 2025 02:38:44.972 # Redis is now ready to exit, bye bye...
+cache         | 1:C 31 May 2025 02:38:51.860 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+cache         | 1:C 31 May 2025 02:38:51.860 * Redis version=7.2.4, bits=64, commit=00000000, modified=0, pid=1, just started
+kafka         | [2025-05-31 02:56:00,458] INFO [MetadataLoader id=1] InitializeNewPublishers: initializing ScramPublisher controller id=1 with a snapshot at offset 2 (org.apache.kafka.image.loader.MetadataLoader)
+kafka         | [2025-05-31 02:56:00,459] INFO [MetadataLoader id=1] InitializeNewPublishers: initializing ControllerMetadataMetricsPublisher with a snapshot at offset 2 (org.apache.kafka.image.loader.MetadataLoader)
+kafka         | [2025-05-31 02:56:00,463] INFO [broker-1-ThrottledChannelReaper-Fetch]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 02:56:00,464] INFO [broker-1-ThrottledChannelReaper-Produce]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+cache         | 1:C 31 May 2025 02:38:51.860 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+cache         | 1:M 31 May 2025 02:38:51.861 * monotonic clock: POSIX clock_gettime
+cache         | 1:M 31 May 2025 02:38:51.862 * Running mode=standalone, port=6379.
+cache         | 1:M 31 May 2025 02:38:51.863 * Server initialized
+cache         | 1:M 31 May 2025 02:38:51.864 * Loading RDB produced by version 7.2.4
+cache         | 1:M 31 May 2025 02:38:51.864 * RDB age 7 seconds
+cache         | 1:M 31 May 2025 02:38:51.864 * RDB memory usage when created 0.86 Mb
+cache         | 1:M 31 May 2025 02:38:51.864 * Done loading RDB, keys loaded: 28, keys expired: 0.
+cache         | 1:M 31 May 2025 02:38:51.864 * DB loaded from disk: 0.001 seconds
+kafka         | [2025-05-31 02:56:00,464] INFO [broker-1-ThrottledChannelReaper-Request]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 02:56:00,464] INFO [broker-1-ThrottledChannelReaper-ControllerMutation]: Starting (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 02:56:00,480] INFO [BrokerServer id=1] Waiting for controller quorum voters future (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,480] INFO [BrokerServer id=1] Finished waiting for controller quorum voters future (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,486] INFO [broker-1-to-controller-forwarding-channel-manager]: Starting (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 02:56:00,488] INFO [broker-1-to-controller-forwarding-channel-manager]: Recorded new controller, from now on will use node kafka:9093 (id: 1 rack: null) (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 02:56:00,521] INFO Updated connection-accept-rate max connection creation rate to 2147483647 (kafka.network.ConnectionQuotas)
+kafka         | [2025-05-31 02:56:00,528] INFO [SocketServer listenerType=BROKER, nodeId=1] Created data-plane acceptor and processors for endpoint : ListenerName(PLAINTEXT) (kafka.network.SocketServer)
+kafka         | [2025-05-31 02:56:00,533] INFO [broker-1-to-controller-alter-partition-channel-manager]: Starting (kafka.server.BrokerToControllerRequestThread)
+cache         | 1:M 31 May 2025 02:38:51.864 * Ready to accept connections tcp
+cache         | 1:signal-handler (1748659351) Received SIGTERM scheduling shutdown...
+cache         | 1:M 31 May 2025 02:42:31.772 * User requested shutdown...
+cache         | 1:M 31 May 2025 02:42:31.773 * Saving the final RDB snapshot before exiting.
+cache         | 1:M 31 May 2025 02:42:31.786 * DB saved on disk
+kafka         | [2025-05-31 02:56:00,534] INFO [broker-1-to-controller-alter-partition-channel-manager]: Recorded new controller, from now on will use node kafka:9093 (id: 1 rack: null) (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 02:56:00,548] INFO [ExpirationReaper-1-Produce]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 02:56:00,550] INFO [ExpirationReaper-1-Fetch]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 02:56:00,551] INFO [ExpirationReaper-1-DeleteRecords]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 02:56:00,553] INFO [ExpirationReaper-1-ElectLeader]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 02:56:00,568] INFO [ExpirationReaper-1-Heartbeat]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 02:56:00,569] INFO [ExpirationReaper-1-Rebalance]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 02:56:00,598] INFO [broker-1-to-controller-heartbeat-channel-manager]: Starting (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 02:56:00,599] INFO [broker-1-to-controller-heartbeat-channel-manager]: Recorded new controller, from now on will use node kafka:9093 (id: 1 rack: null) (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 02:56:00,602] INFO [BrokerLifecycleManager id=1] Incarnation KFOVweABQEuev5BRElHZ8A of broker 1 in cluster LKx3fGxNSsmDZh6L9a5svA is now STARTING. (kafka.server.BrokerLifecycleManager)
+kafka         | [2025-05-31 02:56:00,627] INFO [ExpirationReaper-1-AlterAcls]: Starting (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 02:56:00,646] INFO [BrokerServer id=1] Waiting for the broker metadata publishers to be installed (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,647] INFO [BrokerServer id=1] Finished waiting for the broker metadata publishers to be installed (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,647] INFO [BrokerServer id=1] Waiting for the controller to acknowledge that we are caught up (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,647] INFO [MetadataLoader id=1] InitializeNewPublishers: initializing BrokerMetadataPublisher with a snapshot at offset 2 (org.apache.kafka.image.loader.MetadataLoader)
+kafka         | [2025-05-31 02:56:00,647] INFO [BrokerMetadataPublisher id=1] Publishing initial metadata at offset OffsetAndEpoch(offset=2, epoch=1) with metadata.version 3.5-IV2. (kafka.server.metadata.BrokerMetadataPublisher)
+kafka         | [2025-05-31 02:56:00,648] INFO Loading logs from log dirs ArraySeq(/tmp/kraft-combined-logs) (kafka.log.LogManager)
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.725+00:00"},"s":"I",  "c":"CONTROL",  "id":51765,   "ctx":"initandlisten","msg":"Operating System","attr":{"os":{"name":"Ubuntu","version":"20.04"}}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.725+00:00"},"s":"I",  "c":"CONTROL",  "id":21951,   "ctx":"initandlisten","msg":"Options set by command line","attr":{"options":{"net":{"bindIp":"*"}}}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.729+00:00"},"s":"I",  "c":"STORAGE",  "id":22270,   "ctx":"initandlisten","msg":"Storage engine to use detected by data files","attr":{"dbpath":"/data/db","storageEngine":"wiredTiger"}}
+kafka         | [2025-05-31 02:56:00,658] INFO No logs found to be loaded in /tmp/kraft-combined-logs (kafka.log.LogManager)
+kafka         | [2025-05-31 02:56:00,663] INFO Loaded 0 logs in 14ms (kafka.log.LogManager)
+kafka         | [2025-05-31 02:56:00,663] INFO Starting log cleanup with a period of 300000 ms. (kafka.log.LogManager)
+kafka         | [2025-05-31 02:56:00,665] INFO Starting log flusher with a default period of 9223372036854775807 ms. (kafka.log.LogManager)
+kafka         | [2025-05-31 02:56:00,677] INFO Starting the log cleaner (kafka.log.LogCleaner)
+kafka         | [2025-05-31 02:56:00,686] INFO [QuorumController id=1] Registered new broker: RegisterBrokerRecord(brokerId=1, isMigratingZkBroker=false, incarnationId=KFOVweABQEuev5BRElHZ8A, brokerEpoch=3, endPoints=[BrokerEndpoint(name='PLAINTEXT', host='kafka', port=9092, securityProtocol=0)], features=[BrokerFeature(name='metadata.version', minSupportedVersion=1, maxSupportedVersion=11)], rack=null, fenced=true, inControlledShutdown=false) (org.apache.kafka.controller.ClusterControlManager)
+kafka         | [2025-05-31 02:56:00,715] INFO [BrokerLifecycleManager id=1] Successfully registered broker 1 with broker epoch 3 (kafka.server.BrokerLifecycleManager)
+kafka         | [2025-05-31 02:56:00,869] INFO [kafka-log-cleaner-thread-0]: Starting (kafka.log.LogCleaner$CleanerThread)
+kafka         | [2025-05-31 02:56:00,873] INFO [LogDirFailureHandler]: Starting (kafka.server.ReplicaManager$LogDirFailureHandler)
+kafka         | [2025-05-31 02:56:00,874] INFO [GroupCoordinator 1]: Starting up. (kafka.coordinator.group.GroupCoordinator)
+kafka         | [2025-05-31 02:56:00,876] INFO [GroupCoordinator 1]: Startup complete. (kafka.coordinator.group.GroupCoordinator)
+kafka         | [2025-05-31 02:56:00,878] INFO [TransactionCoordinator id=1] Starting up. (kafka.coordinator.transaction.TransactionCoordinator)
+kafka         | [2025-05-31 02:56:00,879] INFO [TxnMarkerSenderThread-1]: Starting (kafka.coordinator.transaction.TransactionMarkerChannelManager)
+kafka         | [2025-05-31 02:56:00,879] INFO [TransactionCoordinator id=1] Startup complete. (kafka.coordinator.transaction.TransactionCoordinator)
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.729+00:00"},"s":"I",  "c":"STORAGE",  "id":22297,   "ctx":"initandlisten","msg":"Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem","tags":["startupWarnings"]}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:47.729+00:00"},"s":"I",  "c":"STORAGE",  "id":22315,   "ctx":"initandlisten","msg":"Opening WiredTiger","attr":{"config":"create,cache_size=3445M,session_max=33000,eviction=(threads_min=4,threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,archive=true,path=journal,compressor=snappy),builtin_extension_config=(zstd=(compression_level=6)),file_manager=(close_idle_time=600,close_scan_interval=10,close_handle_minimum=2000),statistics_log=(wait=0),verbose=[recovery_progress,checkpoint_progress,compact_progress],"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:48.084+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660808:84339][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_PROGRESS] Recovering log 58 through 59"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:48.662+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660808:662637][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_PROGRESS] Recovering log 59 through 59"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.167+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660809:167302][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_ALL] Main recovery loop: starting at 58/16896 to 59/256"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.225+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660809:225729][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_PROGRESS] Recovering log 58 through 59"}}
+cache         | 1:M 31 May 2025 02:42:31.786 # Redis is now ready to exit, bye bye...
+cache         | 1:C 31 May 2025 02:43:37.297 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.285+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660809:285165][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_PROGRESS] Recovering log 59 through 59"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.312+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660809:312957][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_PROGRESS] recovery log replay has successfully finished and ran for 1230 milliseconds"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.313+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660809:313053][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_ALL] Set global recovery timestamp: (0, 0)"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.313+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660809:313066][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_ALL] Set global oldest timestamp: (0, 0)"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.313+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660809:313464][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_PROGRESS] recovery rollback to stable has successfully finished and ran for 0 milliseconds"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.317+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660809:317947][1:0x7906cba83c80], WT_SESSION.checkpoint: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 1, snapshot max: 1 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 2032"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.331+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660809:331205][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_PROGRESS] recovery checkpoint has successfully finished and ran for 17 milliseconds"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.331+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"initandlisten","msg":"WiredTiger message","attr":{"message":"[1748660809:331328][1:0x7906cba83c80], txn-recover: [WT_VERB_RECOVERY_PROGRESS] recovery was completed successfully and took 1248ms, including 1230ms for the log replay, 0ms for the rollback to stable, and 17ms for the checkpoint."}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.334+00:00"},"s":"I",  "c":"STORAGE",  "id":4795906, "ctx":"initandlisten","msg":"WiredTiger opened","attr":{"durationMillis":1605}}
+kafka         | [2025-05-31 02:56:00,880] INFO [BrokerMetadataPublisher id=1] Updating metadata.version to 11 at offset OffsetAndEpoch(offset=2, epoch=1). (kafka.server.metadata.BrokerMetadataPublisher)
+kafka         | [2025-05-31 02:56:00,900] INFO [BrokerLifecycleManager id=1] The broker has caught up. Transitioning from STARTING to RECOVERY. (kafka.server.BrokerLifecycleManager)
+kafka         | [2025-05-31 02:56:00,900] INFO [BrokerServer id=1] Finished waiting for the controller to acknowledge that we are caught up (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,900] INFO [BrokerServer id=1] Waiting for the initial broker metadata update to be published (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,900] INFO [BrokerServer id=1] Finished waiting for the initial broker metadata update to be published (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,902] INFO KafkaConfig values: 
+kafka         | 	advertised.listeners = PLAINTEXT://kafka:9092
+kafka         | 	alter.config.policy.class.name = null
+kafka         | 	alter.log.dirs.replication.quota.window.num = 11
+kafka         | 	alter.log.dirs.replication.quota.window.size.seconds = 1
+cache         | 1:C 31 May 2025 02:43:37.297 * Redis version=7.2.4, bits=64, commit=00000000, modified=0, pid=1, just started
+cache         | 1:C 31 May 2025 02:43:37.297 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+cache         | 1:M 31 May 2025 02:43:37.297 * monotonic clock: POSIX clock_gettime
+cache         | 1:M 31 May 2025 02:43:37.298 * Running mode=standalone, port=6379.
+kafka         | 	authorizer.class.name = 
+kafka         | 	auto.create.topics.enable = true
+kafka         | 	auto.include.jmx.reporter = true
+kafka         | 	auto.leader.rebalance.enable = true
+kafka         | 	background.threads = 10
+cache         | 1:M 31 May 2025 02:43:37.299 * Server initialized
+cache         | 1:M 31 May 2025 02:43:37.299 * Loading RDB produced by version 7.2.4
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.334+00:00"},"s":"I",  "c":"RECOVERY", "id":23987,   "ctx":"initandlisten","msg":"WiredTiger recoveryTimestamp","attr":{"recoveryTimestamp":{"$timestamp":{"t":0,"i":0}}}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.343+00:00"},"s":"I",  "c":"STORAGE",  "id":22262,   "ctx":"initandlisten","msg":"Timestamp monitor starting"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.352+00:00"},"s":"W",  "c":"CONTROL",  "id":22120,   "ctx":"initandlisten","msg":"Access control is not enabled for the database. Read and write access to data and configuration is unrestricted","tags":["startupWarnings"]}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.358+00:00"},"s":"I",  "c":"NETWORK",  "id":4915702, "ctx":"initandlisten","msg":"Updated wire specification","attr":{"oldSpec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":13},"incomingInternalClient":{"minWireVersion":0,"maxWireVersion":13},"outgoing":{"minWireVersion":0,"maxWireVersion":13},"isInternalClient":true},"newSpec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":13},"incomingInternalClient":{"minWireVersion":13,"maxWireVersion":13},"outgoing":{"minWireVersion":13,"maxWireVersion":13},"isInternalClient":true}}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.359+00:00"},"s":"I",  "c":"STORAGE",  "id":5071100, "ctx":"initandlisten","msg":"Clearing temp directory"}
+cache         | 1:M 31 May 2025 02:43:37.299 * RDB age 66 seconds
+cache         | 1:M 31 May 2025 02:43:37.299 * RDB memory usage when created 0.86 Mb
+cache         | 1:M 31 May 2025 02:43:37.299 * Done loading RDB, keys loaded: 28, keys expired: 0.
+cache         | 1:M 31 May 2025 02:43:37.300 * DB loaded from disk: 0.000 seconds
+cache         | 1:M 31 May 2025 02:43:37.300 * Ready to accept connections tcp
+cache         | 1:signal-handler (1748659911) Received SIGTERM scheduling shutdown...
+kafka         | 	broker.heartbeat.interval.ms = 2000
+kafka         | 	broker.id = 1
+kafka         | 	broker.id.generation.enable = true
+cache         | 1:M 31 May 2025 02:51:51.992 * User requested shutdown...
+cache         | 1:M 31 May 2025 02:51:51.992 * Saving the final RDB snapshot before exiting.
+cache         | 1:M 31 May 2025 02:51:52.002 * DB saved on disk
+kafka         | 	broker.rack = null
+cache         | 1:M 31 May 2025 02:51:52.002 # Redis is now ready to exit, bye bye...
+kafka         | 	broker.session.timeout.ms = 9000
+cache         | 1:C 31 May 2025 02:52:05.872 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+cache         | 1:C 31 May 2025 02:52:05.872 * Redis version=7.2.4, bits=64, commit=00000000, modified=0, pid=1, just started
+cache         | 1:C 31 May 2025 02:52:05.872 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+cache         | 1:M 31 May 2025 02:52:05.873 * monotonic clock: POSIX clock_gettime
+cache         | 1:M 31 May 2025 02:52:05.874 * Running mode=standalone, port=6379.
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.361+00:00"},"s":"I",  "c":"CONTROL",  "id":20536,   "ctx":"initandlisten","msg":"Flow Control is enabled on this deployment"}
+kafka         | 	client.quota.callback.class = null
+kafka         | 	compression.type = producer
+kafka         | 	connection.failed.authentication.delay.ms = 100
+kafka         | 	connections.max.idle.ms = 600000
+kafka         | 	connections.max.reauth.ms = 0
+kafka         | 	control.plane.listener.name = null
+kafka         | 	controlled.shutdown.enable = true
+kafka         | 	controlled.shutdown.max.retries = 3
+kafka         | 	controlled.shutdown.retry.backoff.ms = 5000
+kafka         | 	controller.listener.names = CONTROLLER
+kafka         | 	controller.quorum.append.linger.ms = 25
+kafka         | 	controller.quorum.election.backoff.max.ms = 1000
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.363+00:00"},"s":"I",  "c":"FTDC",     "id":20625,   "ctx":"initandlisten","msg":"Initializing full-time diagnostic data capture","attr":{"dataDirectory":"/data/db/diagnostic.data"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.370+00:00"},"s":"I",  "c":"REPL",     "id":6015317, "ctx":"initandlisten","msg":"Setting new configuration state","attr":{"newState":"ConfigReplicationDisabled","oldState":"ConfigPreStart"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.372+00:00"},"s":"I",  "c":"NETWORK",  "id":23015,   "ctx":"listener","msg":"Listening on","attr":{"address":"/tmp/mongodb-27017.sock"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.372+00:00"},"s":"I",  "c":"NETWORK",  "id":23015,   "ctx":"listener","msg":"Listening on","attr":{"address":"0.0.0.0"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:49.372+00:00"},"s":"I",  "c":"NETWORK",  "id":23016,   "ctx":"listener","msg":"Waiting for connections","attr":{"port":27017,"ssl":"off"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:52.783+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:45900","uuid":"da6d83c9-f59b-4f87-b065-5e62e540168e","connectionId":1,"connectionCount":1}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:52.788+00:00"},"s":"I",  "c":"NETWORK",  "id":51800,   "ctx":"conn1","msg":"client metadata","attr":{"remote":"127.0.0.1:45900","client":"conn1","negotiatedCompressors":[],"doc":{"application":{"name":"MongoDB Shell"},"driver":{"name":"MongoDB Internal Client","version":"5.0.31"},"os":{"type":"Linux","name":"Ubuntu","architecture":"x86_64","version":"20.04"}}}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:06:52.804+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn1","msg":"Connection ended","attr":{"remote":"127.0.0.1:45900","uuid":"da6d83c9-f59b-4f87-b065-5e62e540168e","connectionId":1,"connectionCount":0}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:02.961+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:41844","uuid":"36a8076f-252f-4715-8f69-2f8925d133cb","connectionId":2,"connectionCount":1}}
+cache         | 1:M 31 May 2025 02:52:05.875 * Server initialized
+cache         | 1:M 31 May 2025 02:52:05.875 * Loading RDB produced by version 7.2.4
+cache         | 1:M 31 May 2025 02:52:05.875 * RDB age 14 seconds
+cache         | 1:M 31 May 2025 02:52:05.875 * RDB memory usage when created 0.86 Mb
+cache         | 1:M 31 May 2025 02:52:05.875 * Done loading RDB, keys loaded: 28, keys expired: 0.
+cache         | 1:M 31 May 2025 02:52:05.875 * DB loaded from disk: 0.000 seconds
+kafka         | 	controller.quorum.election.timeout.ms = 1000
+cache         | 1:M 31 May 2025 02:52:05.875 * Ready to accept connections tcp
+cache         | 1:signal-handler (1748659998) Received SIGTERM scheduling shutdown...
+kafka         | 	controller.quorum.fetch.timeout.ms = 2000
+kafka         | 	controller.quorum.request.timeout.ms = 2000
+kafka         | 	controller.quorum.retry.backoff.ms = 20
+kafka         | 	controller.quorum.voters = [1@kafka:9093]
+cache         | 1:M 31 May 2025 02:53:18.848 * User requested shutdown...
+cache         | 1:M 31 May 2025 02:53:18.848 * Saving the final RDB snapshot before exiting.
+cache         | 1:M 31 May 2025 02:53:18.867 * DB saved on disk
+cache         | 1:M 31 May 2025 02:53:18.867 # Redis is now ready to exit, bye bye...
+cache         | 1:C 31 May 2025 02:55:52.896 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:02.961+00:00"},"s":"I",  "c":"NETWORK",  "id":51800,   "ctx":"conn2","msg":"client metadata","attr":{"remote":"127.0.0.1:41844","client":"conn2","negotiatedCompressors":[],"doc":{"application":{"name":"MongoDB Shell"},"driver":{"name":"MongoDB Internal Client","version":"5.0.31"},"os":{"type":"Linux","name":"Ubuntu","architecture":"x86_64","version":"20.04"}}}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:02.967+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn2","msg":"Connection ended","attr":{"remote":"127.0.0.1:41844","uuid":"36a8076f-252f-4715-8f69-2f8925d133cb","connectionId":2,"connectionCount":0}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:13.119+00:00"},"s":"I",  "c":"NETWORK",  "id":22943,   "ctx":"listener","msg":"Connection accepted","attr":{"remote":"127.0.0.1:51320","uuid":"4f3d8de0-f67f-4f95-8bac-f9142ae08d2c","connectionId":3,"connectionCount":1}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:13.120+00:00"},"s":"I",  "c":"NETWORK",  "id":51800,   "ctx":"conn3","msg":"client metadata","attr":{"remote":"127.0.0.1:51320","client":"conn3","negotiatedCompressors":[],"doc":{"application":{"name":"MongoDB Shell"},"driver":{"name":"MongoDB Internal Client","version":"5.0.31"},"os":{"type":"Linux","name":"Ubuntu","architecture":"x86_64","version":"20.04"}}}}
+kafka         | 	controller.quota.window.num = 11
+kafka         | 	controller.quota.window.size.seconds = 1
+kafka         | 	controller.socket.timeout.ms = 30000
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:13.124+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn3","msg":"Connection ended","attr":{"remote":"127.0.0.1:51320","uuid":"4f3d8de0-f67f-4f95-8bac-f9142ae08d2c","connectionId":3,"connectionCount":0}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.377+00:00"},"s":"I",  "c":"CONTROL",  "id":23377,   "ctx":"SignalHandler","msg":"Received signal","attr":{"signal":15,"error":"Terminated"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.377+00:00"},"s":"I",  "c":"CONTROL",  "id":23378,   "ctx":"SignalHandler","msg":"Signal was sent by kill(2)","attr":{"pid":0,"uid":0}}
+kafka         | 	create.topic.policy.class.name = null
+kafka         | 	default.replication.factor = 1
+kafka         | 	delegation.token.expiry.check.interval.ms = 3600000
+kafka         | 	delegation.token.expiry.time.ms = 86400000
+kafka         | 	delegation.token.master.key = null
+kafka         | 	delegation.token.max.lifetime.ms = 604800000
+kafka         | 	delegation.token.secret.key = null
+kafka         | 	delete.records.purgatory.purge.interval.requests = 1
+kafka         | 	delete.topic.enable = true
+kafka         | 	early.start.listeners = null
+cache         | 1:C 31 May 2025 02:55:52.896 * Redis version=7.2.4, bits=64, commit=00000000, modified=0, pid=1, just started
+cache         | 1:C 31 May 2025 02:55:52.896 # Warning: no config file specified, using the default config. In order to specify a config file use redis-server /path/to/redis.conf
+cache         | 1:M 31 May 2025 02:55:52.897 * monotonic clock: POSIX clock_gettime
+cache         | 1:M 31 May 2025 02:55:52.900 * Running mode=standalone, port=6379.
+cache         | 1:M 31 May 2025 02:55:52.901 * Server initialized
+cache         | 1:M 31 May 2025 02:55:52.901 * Loading RDB produced by version 7.2.4
+cache         | 1:M 31 May 2025 02:55:52.902 * RDB age 154 seconds
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.377+00:00"},"s":"I",  "c":"CONTROL",  "id":23381,   "ctx":"SignalHandler","msg":"will terminate after current cmd ends"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.377+00:00"},"s":"I",  "c":"REPL",     "id":4784900, "ctx":"SignalHandler","msg":"Stepping down the ReplicationCoordinator for shutdown","attr":{"waitTimeMillis":15000}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.377+00:00"},"s":"I",  "c":"REPL",     "id":4794602, "ctx":"SignalHandler","msg":"Attempting to enter quiesce mode"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.377+00:00"},"s":"I",  "c":"COMMAND",  "id":4784901, "ctx":"SignalHandler","msg":"Shutting down the MirrorMaestro"}
+cache         | 1:M 31 May 2025 02:55:52.902 * RDB memory usage when created 0.86 Mb
+cache         | 1:M 31 May 2025 02:55:52.902 * Done loading RDB, keys loaded: 28, keys expired: 0.
+cache         | 1:M 31 May 2025 02:55:52.903 * DB loaded from disk: 0.002 seconds
+cache         | 1:M 31 May 2025 02:55:52.903 * Ready to accept connections tcp
+kafka         | 	fetch.max.bytes = 57671680
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.377+00:00"},"s":"I",  "c":"SHARDING", "id":4784902, "ctx":"SignalHandler","msg":"Shutting down the WaitForMajorityService"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.378+00:00"},"s":"I",  "c":"CONTROL",  "id":4784903, "ctx":"SignalHandler","msg":"Shutting down the LogicalSessionCache"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.378+00:00"},"s":"I",  "c":"NETWORK",  "id":20562,   "ctx":"SignalHandler","msg":"Shutdown: going to close listening sockets"}
+kafka         | 	fetch.purgatory.purge.interval.requests = 1000
+kafka         | 	group.consumer.assignors = []
+kafka         | 	group.consumer.heartbeat.interval.ms = 5000
+kafka         | 	group.consumer.max.heartbeat.interval.ms = 15000
+kafka         | 	group.consumer.max.session.timeout.ms = 60000
+cache         | 1:signal-handler (1748660839) Received SIGTERM scheduling shutdown...
+cache         | 1:M 31 May 2025 03:07:19.426 * User requested shutdown...
+kafka         | 	group.consumer.max.size = 2147483647
+kafka         | 	group.consumer.min.heartbeat.interval.ms = 5000
+kafka         | 	group.consumer.min.session.timeout.ms = 45000
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.378+00:00"},"s":"I",  "c":"NETWORK",  "id":23017,   "ctx":"listener","msg":"removing socket file","attr":{"path":"/tmp/mongodb-27017.sock"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.378+00:00"},"s":"I",  "c":"NETWORK",  "id":4784905, "ctx":"SignalHandler","msg":"Shutting down the global connection pool"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"CONTROL",  "id":4784906, "ctx":"SignalHandler","msg":"Shutting down the FlowControlTicketholder"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"-",        "id":20520,   "ctx":"SignalHandler","msg":"Stopping further Flow Control ticket acquisitions."}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"CONTROL",  "id":4784908, "ctx":"SignalHandler","msg":"Shutting down the PeriodicThreadToAbortExpiredTransactions"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"REPL",     "id":4784909, "ctx":"SignalHandler","msg":"Shutting down the ReplicationCoordinator"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"SHARDING", "id":4784910, "ctx":"SignalHandler","msg":"Shutting down the ShardingInitializationMongoD"}
+cache         | 1:M 31 May 2025 03:07:19.426 * Saving the final RDB snapshot before exiting.
+cache         | 1:M 31 May 2025 03:07:19.438 * DB saved on disk
+kafka         | 	group.consumer.session.timeout.ms = 45000
+kafka         | 	group.coordinator.new.enable = false
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"REPL",     "id":4784911, "ctx":"SignalHandler","msg":"Enqueuing the ReplicationStateTransitionLock for shutdown"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"-",        "id":4784912, "ctx":"SignalHandler","msg":"Killing all operations for shutdown"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"-",        "id":4695300, "ctx":"SignalHandler","msg":"Interrupted all currently running operations","attr":{"opsKilled":3}}
+kafka         | 	group.coordinator.threads = 1
+kafka         | 	group.initial.rebalance.delay.ms = 3000
+cache         | 1:M 31 May 2025 03:07:19.438 # Redis is now ready to exit, bye bye...
+kafka         | 	group.max.session.timeout.ms = 1800000
+kafka         | 	group.max.size = 2147483647
+kafka         | 	group.min.session.timeout.ms = 6000
+kafka         | 	initial.broker.registration.timeout.ms = 60000
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"TENANT_M", "id":5093807, "ctx":"SignalHandler","msg":"Shutting down all TenantMigrationAccessBlockers on global shutdown"}
+kafka         | 	inter.broker.listener.name = PLAINTEXT
+kafka         | 	inter.broker.protocol.version = 3.5-IV2
+kafka         | 	kafka.metrics.polling.interval.secs = 10
+kafka         | 	kafka.metrics.reporters = []
+kafka         | 	leader.imbalance.check.interval.seconds = 300
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"COMMAND",  "id":4784913, "ctx":"SignalHandler","msg":"Shutting down all open transactions"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"REPL",     "id":4784914, "ctx":"SignalHandler","msg":"Acquiring the ReplicationStateTransitionLock for shutdown"}
+kafka         | 	leader.imbalance.per.broker.percentage = 10
+kafka         | 	listener.security.protocol.map = CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT
+kafka         | 	listeners = PLAINTEXT://kafka:9092,CONTROLLER://kafka:9093
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"INDEX",    "id":4784915, "ctx":"SignalHandler","msg":"Shutting down the IndexBuildsCoordinator"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"REPL",     "id":4784916, "ctx":"SignalHandler","msg":"Reacquiring the ReplicationStateTransitionLock for shutdown"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"REPL",     "id":4784917, "ctx":"SignalHandler","msg":"Attempting to mark clean shutdown"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"NETWORK",  "id":4784918, "ctx":"SignalHandler","msg":"Shutting down the ReplicaSetMonitor"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"SHARDING", "id":4784921, "ctx":"SignalHandler","msg":"Shutting down the MigrationUtilExecutor"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"MigrationUtil-TaskExecutor","msg":"Killing all outstanding egress activity."}
+kafka         | 	log.cleaner.backoff.ms = 15000
+kafka         | 	log.cleaner.dedupe.buffer.size = 134217728
+kafka         | 	log.cleaner.delete.retention.ms = 86400000
+kafka         | 	log.cleaner.enable = true
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"COMMAND",  "id":4784923, "ctx":"SignalHandler","msg":"Shutting down the ServiceEntryPoint"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"CONTROL",  "id":4784927, "ctx":"SignalHandler","msg":"Shutting down the HealthLog"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"CONTROL",  "id":4784928, "ctx":"SignalHandler","msg":"Shutting down the TTL monitor"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"INDEX",    "id":3684100, "ctx":"SignalHandler","msg":"Shutting down TTL collection monitor thread"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"INDEX",    "id":3684101, "ctx":"SignalHandler","msg":"Finished shutting down TTL collection monitor thread"}
+kafka         | 	log.cleaner.io.buffer.load.factor = 0.9
+kafka         | 	log.cleaner.io.buffer.size = 524288
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"CONTROL",  "id":4784929, "ctx":"SignalHandler","msg":"Acquiring the global lock for shutdown"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"CONTROL",  "id":4784930, "ctx":"SignalHandler","msg":"Shutting down the storage engine"}
+kafka         | 	log.cleaner.io.max.bytes.per.second = 1.7976931348623157E308
+kafka         | 	log.cleaner.max.compaction.lag.ms = 9223372036854775807
+kafka         | 	log.cleaner.min.cleanable.ratio = 0.5
+kafka         | 	log.cleaner.min.compaction.lag.ms = 0
+kafka         | 	log.cleaner.threads = 1
+kafka         | 	log.cleanup.policy = [delete]
+kafka         | 	log.dir = /tmp/kafka-logs
+kafka         | 	log.dirs = /tmp/kraft-combined-logs
+kafka         | 	log.flush.interval.messages = 9223372036854775807
+kafka         | 	log.flush.interval.ms = null
+kafka         | 	log.flush.offset.checkpoint.interval.ms = 60000
+kafka         | 	log.flush.scheduler.interval.ms = 9223372036854775807
+kafka         | 	log.flush.start.offset.checkpoint.interval.ms = 60000
+kafka         | 	log.index.interval.bytes = 4096
+kafka         | 	log.index.size.max.bytes = 10485760
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.379+00:00"},"s":"I",  "c":"STORAGE",  "id":22320,   "ctx":"SignalHandler","msg":"Shutting down journal flusher thread"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.380+00:00"},"s":"I",  "c":"STORAGE",  "id":22321,   "ctx":"SignalHandler","msg":"Finished shutting down journal flusher thread"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.380+00:00"},"s":"I",  "c":"STORAGE",  "id":22322,   "ctx":"SignalHandler","msg":"Shutting down checkpoint thread"}
+kafka         | 	log.message.downconversion.enable = true
+kafka         | 	log.message.format.version = 3.0-IV1
+kafka         | 	log.message.timestamp.difference.max.ms = 9223372036854775807
+kafka         | 	log.message.timestamp.type = CreateTime
+kafka         | 	log.preallocate = false
+kafka         | 	log.retention.bytes = -1
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.380+00:00"},"s":"I",  "c":"STORAGE",  "id":22323,   "ctx":"SignalHandler","msg":"Finished shutting down checkpoint thread"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.380+00:00"},"s":"I",  "c":"STORAGE",  "id":22261,   "ctx":"SignalHandler","msg":"Timestamp monitor shutting down"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.380+00:00"},"s":"I",  "c":"STORAGE",  "id":20282,   "ctx":"SignalHandler","msg":"Deregistering all the collections"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.380+00:00"},"s":"I",  "c":"STORAGE",  "id":22317,   "ctx":"SignalHandler","msg":"WiredTigerKVEngine shutting down"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.380+00:00"},"s":"I",  "c":"STORAGE",  "id":22318,   "ctx":"SignalHandler","msg":"Shutting down session sweeper thread"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.381+00:00"},"s":"I",  "c":"STORAGE",  "id":22319,   "ctx":"SignalHandler","msg":"Finished shutting down session sweeper thread"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.383+00:00"},"s":"I",  "c":"STORAGE",  "id":4795902, "ctx":"SignalHandler","msg":"Closing WiredTiger","attr":{"closeConfig":"leak_memory=true,"}}
+kafka         | 	log.retention.check.interval.ms = 300000
+kafka         | 	log.retention.hours = 168
+kafka         | 	log.retention.minutes = null
+kafka         | 	log.retention.ms = null
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.387+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"SignalHandler","msg":"WiredTiger message","attr":{"message":"[1748660839:387280][1:0x7906cba82700], close_ckpt: [WT_VERB_CHECKPOINT_PROGRESS] saving checkpoint snapshot min: 4, snapshot max: 4 snapshot count: 0, oldest timestamp: (0, 0) , meta checkpoint timestamp: (0, 0) base write gen: 2032"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.416+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"SignalHandler","msg":"WiredTiger message","attr":{"message":"[1748660839:416282][1:0x7906cba82700], WT_CONNECTION.close: [WT_VERB_RECOVERY_PROGRESS] shutdown checkpoint has successfully finished and ran for 32 milliseconds"}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.416+00:00"},"s":"I",  "c":"STORAGE",  "id":22430,   "ctx":"SignalHandler","msg":"WiredTiger message","attr":{"message":"[1748660839:416360][1:0x7906cba82700], WT_CONNECTION.close: [WT_VERB_RECOVERY_PROGRESS] shutdown was completed successfully and took 32ms, including 0ms for the rollback to stable, and 32ms for the checkpoint."}}
+kafka         | 	log.roll.hours = 168
+kafka         | 	log.roll.jitter.hours = 0
+kafka         | 	log.roll.jitter.ms = null
+kafka         | 	log.roll.ms = null
+kafka         | 	log.segment.bytes = 1073741824
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.435+00:00"},"s":"I",  "c":"STORAGE",  "id":4795901, "ctx":"SignalHandler","msg":"WiredTiger closed","attr":{"durationMillis":52}}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.435+00:00"},"s":"I",  "c":"STORAGE",  "id":22279,   "ctx":"SignalHandler","msg":"shutdown: removing fs lock..."}
+kafka         | 	log.segment.delete.delay.ms = 60000
+kafka         | 	max.connection.creation.rate = 2147483647
+kafka         | 	max.connections = 2147483647
+kafka         | 	max.connections.per.ip = 2147483647
+kafka         | 	max.connections.per.ip.overrides = 
+kafka         | 	max.incremental.fetch.session.cache.slots = 1000
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.435+00:00"},"s":"I",  "c":"-",        "id":4784931, "ctx":"SignalHandler","msg":"Dropping the scope cache for shutdown"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.435+00:00"},"s":"I",  "c":"FTDC",     "id":4784926, "ctx":"SignalHandler","msg":"Shutting down full-time data capture"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.435+00:00"},"s":"I",  "c":"FTDC",     "id":20626,   "ctx":"SignalHandler","msg":"Shutting down full-time diagnostic data capture"}
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.438+00:00"},"s":"I",  "c":"CONTROL",  "id":20565,   "ctx":"SignalHandler","msg":"Now exiting"}
+kafka         | 	message.max.bytes = 1048588
+kafka         | 	metadata.log.dir = null
+kafka         | 	metadata.log.max.record.bytes.between.snapshots = 20971520
+mongo_db      | {"t":{"$date":"2025-05-31T03:07:19.439+00:00"},"s":"I",  "c":"CONTROL",  "id":23138,   "ctx":"SignalHandler","msg":"Shutting down","attr":{"exitCode":0}}
+kafka         | 	metadata.log.max.snapshot.interval.ms = 3600000
+kafka         | 	metadata.log.segment.bytes = 1073741824
+kafka         | 	metadata.log.segment.min.bytes = 8388608
+kafka         | 	metadata.log.segment.ms = 604800000
+kafka         | 	metadata.max.idle.interval.ms = 500
+kafka         | 	metadata.max.retention.bytes = 104857600
+kafka         | 	metadata.max.retention.ms = 604800000
+kafka         | 	metric.reporters = []
+kafka         | 	metrics.num.samples = 2
+kafka         | 	metrics.recording.level = INFO
+kafka         | 	metrics.sample.window.ms = 30000
+kafka         | 	min.insync.replicas = 1
+kafka         | 	node.id = 1
+kafka         | 	num.io.threads = 8
+kafka         | 	num.network.threads = 3
+kafka         | 	num.partitions = 1
+kafka         | 	num.recovery.threads.per.data.dir = 1
+kafka         | 	num.replica.alter.log.dirs.threads = null
+kafka         | 	num.replica.fetchers = 1
+kafka         | 	offset.metadata.max.bytes = 4096
+kafka         | 	offsets.commit.required.acks = -1
+kafka         | 	offsets.commit.timeout.ms = 5000
+kafka         | 	offsets.load.buffer.size = 5242880
+kafka         | 	offsets.retention.check.interval.ms = 600000
+kafka         | 	offsets.retention.minutes = 10080
+kafka         | 	offsets.topic.compression.codec = 0
+kafka         | 	offsets.topic.num.partitions = 50
+kafka         | 	offsets.topic.replication.factor = 3
+kafka         | 	offsets.topic.segment.bytes = 104857600
+kafka         | 	password.encoder.cipher.algorithm = AES/CBC/PKCS5Padding
+kafka         | 	password.encoder.iterations = 4096
+kafka         | 	password.encoder.key.length = 128
+kafka         | 	password.encoder.keyfactory.algorithm = null
+kafka         | 	password.encoder.old.secret = null
+kafka         | 	password.encoder.secret = null
+kafka         | 	principal.builder.class = class org.apache.kafka.common.security.authenticator.DefaultKafkaPrincipalBuilder
+kafka         | 	process.roles = [broker, controller]
+kafka         | 	producer.id.expiration.check.interval.ms = 600000
+kafka         | 	producer.id.expiration.ms = 86400000
+kafka         | 	producer.purgatory.purge.interval.requests = 1000
+kafka         | 	queued.max.request.bytes = -1
+kafka         | 	queued.max.requests = 500
+kafka         | 	quota.window.num = 11
+kafka         | 	quota.window.size.seconds = 1
+kafka         | 	remote.log.index.file.cache.total.size.bytes = 1073741824
+kafka         | 	remote.log.manager.task.interval.ms = 30000
+kafka         | 	remote.log.manager.task.retry.backoff.max.ms = 30000
+kafka         | 	remote.log.manager.task.retry.backoff.ms = 500
+kafka         | 	remote.log.manager.task.retry.jitter = 0.2
+kafka         | 	remote.log.manager.thread.pool.size = 10
+kafka         | 	remote.log.metadata.manager.class.name = null
+kafka         | 	remote.log.metadata.manager.class.path = null
+kafka         | 	remote.log.metadata.manager.impl.prefix = null
+kafka         | 	remote.log.metadata.manager.listener.name = null
+kafka         | 	remote.log.reader.max.pending.tasks = 100
+kafka         | 	remote.log.reader.threads = 10
+kafka         | 	remote.log.storage.manager.class.name = null
+kafka         | 	remote.log.storage.manager.class.path = null
+kafka         | 	remote.log.storage.manager.impl.prefix = null
+kafka         | 	remote.log.storage.system.enable = false
+kafka         | 	replica.fetch.backoff.ms = 1000
+kafka         | 	replica.fetch.max.bytes = 1048576
+kafka         | 	replica.fetch.min.bytes = 1
+kafka         | 	replica.fetch.response.max.bytes = 10485760
+kafka         | 	replica.fetch.wait.max.ms = 500
+kafka         | 	replica.high.watermark.checkpoint.interval.ms = 5000
+kafka         | 	replica.lag.time.max.ms = 30000
+kafka         | 	replica.selector.class = null
+kafka         | 	replica.socket.receive.buffer.bytes = 65536
+kafka         | 	replica.socket.timeout.ms = 30000
+kafka         | 	replication.quota.window.num = 11
+kafka         | 	replication.quota.window.size.seconds = 1
+kafka         | 	request.timeout.ms = 30000
+kafka         | 	reserved.broker.max.id = 1000
+kafka         | 	sasl.client.callback.handler.class = null
+kafka         | 	sasl.enabled.mechanisms = [GSSAPI]
+kafka         | 	sasl.jaas.config = null
+kafka         | 	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+kafka         | 	sasl.kerberos.min.time.before.relogin = 60000
+kafka         | 	sasl.kerberos.principal.to.local.rules = [DEFAULT]
+kafka         | 	sasl.kerberos.service.name = null
+kafka         | 	sasl.kerberos.ticket.renew.jitter = 0.05
+kafka         | 	sasl.kerberos.ticket.renew.window.factor = 0.8
+kafka         | 	sasl.login.callback.handler.class = null
+kafka         | 	sasl.login.class = null
+kafka         | 	sasl.login.connect.timeout.ms = null
+kafka         | 	sasl.login.read.timeout.ms = null
+kafka         | 	sasl.login.refresh.buffer.seconds = 300
+kafka         | 	sasl.login.refresh.min.period.seconds = 60
+kafka         | 	sasl.login.refresh.window.factor = 0.8
+kafka         | 	sasl.login.refresh.window.jitter = 0.05
+kafka         | 	sasl.login.retry.backoff.max.ms = 10000
+kafka         | 	sasl.login.retry.backoff.ms = 100
+kafka         | 	sasl.mechanism.controller.protocol = GSSAPI
+kafka         | 	sasl.mechanism.inter.broker.protocol = GSSAPI
+kafka         | 	sasl.oauthbearer.clock.skew.seconds = 30
+kafka         | 	sasl.oauthbearer.expected.audience = null
+kafka         | 	sasl.oauthbearer.expected.issuer = null
+kafka         | 	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+kafka         | 	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+kafka         | 	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+kafka         | 	sasl.oauthbearer.jwks.endpoint.url = null
+kafka         | 	sasl.oauthbearer.scope.claim.name = scope
+kafka         | 	sasl.oauthbearer.sub.claim.name = sub
+kafka         | 	sasl.oauthbearer.token.endpoint.url = null
+kafka         | 	sasl.server.callback.handler.class = null
+kafka         | 	sasl.server.max.receive.size = 524288
+kafka         | 	security.inter.broker.protocol = PLAINTEXT
+kafka         | 	security.providers = null
+kafka         | 	server.max.startup.time.ms = 9223372036854775807
+kafka         | 	socket.connection.setup.timeout.max.ms = 30000
+kafka         | 	socket.connection.setup.timeout.ms = 10000
+kafka         | 	socket.listen.backlog.size = 50
+kafka         | 	socket.receive.buffer.bytes = 102400
+kafka         | 	socket.request.max.bytes = 104857600
+kafka         | 	socket.send.buffer.bytes = 102400
+kafka         | 	ssl.cipher.suites = []
+kafka         | 	ssl.client.auth = none
+kafka         | 	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+kafka         | 	ssl.endpoint.identification.algorithm = https
+kafka         | 	ssl.engine.factory.class = null
+kafka         | 	ssl.key.password = null
+kafka         | 	ssl.keymanager.algorithm = SunX509
+kafka         | 	ssl.keystore.certificate.chain = null
+kafka         | 	ssl.keystore.key = null
+kafka         | 	ssl.keystore.location = null
+kafka         | 	ssl.keystore.password = null
+kafka         | 	ssl.keystore.type = JKS
+kafka         | 	ssl.principal.mapping.rules = DEFAULT
+kafka         | 	ssl.protocol = TLSv1.3
+kafka         | 	ssl.provider = null
+kafka         | 	ssl.secure.random.implementation = null
+kafka         | 	ssl.trustmanager.algorithm = PKIX
+kafka         | 	ssl.truststore.certificates = null
+kafka         | 	ssl.truststore.location = null
+kafka         | 	ssl.truststore.password = null
+kafka         | 	ssl.truststore.type = JKS
+kafka         | 	transaction.abort.timed.out.transaction.cleanup.interval.ms = 10000
+kafka         | 	transaction.max.timeout.ms = 900000
+kafka         | 	transaction.remove.expired.transaction.cleanup.interval.ms = 3600000
+kafka         | 	transaction.state.log.load.buffer.size = 5242880
+kafka         | 	transaction.state.log.min.isr = 2
+kafka         | 	transaction.state.log.num.partitions = 50
+kafka         | 	transaction.state.log.replication.factor = 3
+kafka         | 	transaction.state.log.segment.bytes = 104857600
+kafka         | 	transactional.id.expiration.ms = 604800000
+kafka         | 	unclean.leader.election.enable = false
+kafka         | 	unstable.api.versions.enable = false
+kafka         | 	zookeeper.clientCnxnSocket = null
+kafka         | 	zookeeper.connect = 
+kafka         | 	zookeeper.connection.timeout.ms = null
+kafka         | 	zookeeper.max.in.flight.requests = 10
+kafka         | 	zookeeper.metadata.migration.enable = false
+kafka         | 	zookeeper.session.timeout.ms = 18000
+kafka         | 	zookeeper.set.acl = false
+kafka         | 	zookeeper.ssl.cipher.suites = null
+kafka         | 	zookeeper.ssl.client.enable = false
+kafka         | 	zookeeper.ssl.crl.enable = false
+kafka         | 	zookeeper.ssl.enabled.protocols = null
+kafka         | 	zookeeper.ssl.endpoint.identification.algorithm = HTTPS
+kafka         | 	zookeeper.ssl.keystore.location = null
+kafka         | 	zookeeper.ssl.keystore.password = null
+kafka         | 	zookeeper.ssl.keystore.type = null
+kafka         | 	zookeeper.ssl.ocsp.enable = false
+kafka         | 	zookeeper.ssl.protocol = TLSv1.2
+kafka         | 	zookeeper.ssl.truststore.location = null
+kafka         | 	zookeeper.ssl.truststore.password = null
+kafka         | 	zookeeper.ssl.truststore.type = null
+kafka         |  (kafka.server.KafkaConfig)
+kafka         | [2025-05-31 02:56:00,907] INFO [BrokerServer id=1] Waiting for the broker to be unfenced (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,909] INFO [QuorumController id=1] The request from broker 1 to unfence has been granted because it has caught up with the offset of its register broker record 3. (org.apache.kafka.controller.BrokerHeartbeatManager)
+kafka         | [2025-05-31 02:56:00,943] INFO [BrokerLifecycleManager id=1] The broker has been unfenced. Transitioning from RECOVERY to RUNNING. (kafka.server.BrokerLifecycleManager)
+kafka         | [2025-05-31 02:56:00,943] INFO [BrokerServer id=1] Finished waiting for the broker to be unfenced (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,943] INFO [SocketServer listenerType=BROKER, nodeId=1] Enabling request processing. (kafka.network.SocketServer)
+kafka         | [2025-05-31 02:56:00,944] INFO Awaiting socket connections on kafka:9092. (kafka.network.DataPlaneAcceptor)
+kafka         | [2025-05-31 02:56:00,945] INFO [BrokerServer id=1] Waiting for all of the authorizer futures to be completed (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,946] INFO [BrokerServer id=1] Finished waiting for all of the authorizer futures to be completed (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,946] INFO [BrokerServer id=1] Waiting for all of the SocketServer Acceptors to be started (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,946] INFO [BrokerServer id=1] Finished waiting for all of the SocketServer Acceptors to be started (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,946] INFO [BrokerServer id=1] Transition from STARTING to STARTED (kafka.server.BrokerServer)
+kafka         | [2025-05-31 02:56:00,946] INFO Kafka version: 7.5.0-ccs (org.apache.kafka.common.utils.AppInfoParser)
+kafka         | [2025-05-31 02:56:00,947] INFO Kafka commitId: ff3c201baa948d97889dc26c99d7cdc23d038f2e (org.apache.kafka.common.utils.AppInfoParser)
+kafka         | [2025-05-31 02:56:00,947] INFO Kafka startTimeMs: 1748660160946 (org.apache.kafka.common.utils.AppInfoParser)
+kafka         | [2025-05-31 02:56:00,948] INFO [KafkaRaftServer nodeId=1] Kafka Server started (kafka.server.KafkaRaftServer)
+kafka         | [2025-05-31 03:07:19,371] INFO Terminating process due to signal SIGTERM (org.apache.kafka.common.utils.LoggingSignalHandler)
+kafka         | [2025-05-31 03:07:19,376] INFO [BrokerServer id=1] Transition from STARTED to SHUTTING_DOWN (kafka.server.BrokerServer)
+kafka         | [2025-05-31 03:07:19,377] INFO [BrokerServer id=1] shutting down (kafka.server.BrokerServer)
+kafka         | [2025-05-31 03:07:19,380] INFO [BrokerLifecycleManager id=1] Beginning controlled shutdown. (kafka.server.BrokerLifecycleManager)
+kafka         | [2025-05-31 03:07:19,381] INFO [QuorumController id=1] Unfenced broker 1 has requested and been granted an immediate shutdown. (org.apache.kafka.controller.BrokerHeartbeatManager)
+kafka         | [2025-05-31 03:07:19,408] INFO [BrokerLifecycleManager id=1] The controller has asked us to exit controlled shutdown. (kafka.server.BrokerLifecycleManager)
+kafka         | [2025-05-31 03:07:19,409] INFO [BrokerLifecycleManager id=1] beginShutdown: shutting down event queue. (org.apache.kafka.queue.KafkaEventQueue)
+kafka         | [2025-05-31 03:07:19,409] INFO [BrokerLifecycleManager id=1] Transitioning from PENDING_CONTROLLED_SHUTDOWN to SHUTTING_DOWN. (kafka.server.BrokerLifecycleManager)
+kafka         | [2025-05-31 03:07:19,409] INFO [broker-1-to-controller-heartbeat-channel-manager]: Shutting down (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 03:07:19,410] INFO [broker-1-to-controller-heartbeat-channel-manager]: Stopped (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 03:07:19,410] INFO [broker-1-to-controller-heartbeat-channel-manager]: Shutdown completed (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 03:07:19,412] INFO [SocketServer listenerType=BROKER, nodeId=1] Stopping socket server request processors (kafka.network.SocketServer)
+kafka         | [2025-05-31 03:07:19,420] INFO Broker to controller channel manager for heartbeat shutdown (kafka.server.BrokerToControllerChannelManagerImpl)
+kafka         | [2025-05-31 03:07:19,427] INFO [SocketServer listenerType=BROKER, nodeId=1] Stopped socket server request processors (kafka.network.SocketServer)
+kafka         | [2025-05-31 03:07:19,429] INFO [data-plane Kafka Request Handler on Broker 1], shutting down (kafka.server.KafkaRequestHandlerPool)
+kafka         | [2025-05-31 03:07:19,432] INFO [data-plane Kafka Request Handler on Broker 1], shut down completely (kafka.server.KafkaRequestHandlerPool)
+kafka         | [2025-05-31 03:07:19,433] INFO [ExpirationReaper-1-AlterAcls]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,437] INFO [ExpirationReaper-1-AlterAcls]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,437] INFO [ExpirationReaper-1-AlterAcls]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,438] INFO [KafkaApi-1] Shutdown complete. (kafka.server.KafkaApis)
+kafka         | [2025-05-31 03:07:19,447] INFO [TransactionCoordinator id=1] Shutting down. (kafka.coordinator.transaction.TransactionCoordinator)
+kafka         | [2025-05-31 03:07:19,448] INFO [Transaction State Manager 1]: Shutdown complete (kafka.coordinator.transaction.TransactionStateManager)
+kafka         | [2025-05-31 03:07:19,449] INFO [TxnMarkerSenderThread-1]: Shutting down (kafka.coordinator.transaction.TransactionMarkerChannelManager)
+kafka         | [2025-05-31 03:07:19,450] INFO [TxnMarkerSenderThread-1]: Stopped (kafka.coordinator.transaction.TransactionMarkerChannelManager)
+kafka         | [2025-05-31 03:07:19,450] INFO [TxnMarkerSenderThread-1]: Shutdown completed (kafka.coordinator.transaction.TransactionMarkerChannelManager)
+kafka         | [2025-05-31 03:07:19,452] INFO [TransactionCoordinator id=1] Shutdown complete. (kafka.coordinator.transaction.TransactionCoordinator)
+kafka         | [2025-05-31 03:07:19,453] INFO [GroupCoordinator 1]: Shutting down. (kafka.coordinator.group.GroupCoordinator)
+kafka         | [2025-05-31 03:07:19,454] INFO [ExpirationReaper-1-Heartbeat]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,455] INFO [ExpirationReaper-1-Heartbeat]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,455] INFO [ExpirationReaper-1-Heartbeat]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,456] INFO [ExpirationReaper-1-Rebalance]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,457] INFO [ExpirationReaper-1-Rebalance]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,457] INFO [ExpirationReaper-1-Rebalance]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,458] INFO [GroupCoordinator 1]: Shutdown complete. (kafka.coordinator.group.GroupCoordinator)
+kafka         | [2025-05-31 03:07:19,459] INFO [ReplicaManager broker=1] Shutting down (kafka.server.ReplicaManager)
+kafka         | [2025-05-31 03:07:19,460] INFO [LogDirFailureHandler]: Shutting down (kafka.server.ReplicaManager$LogDirFailureHandler)
+kafka         | [2025-05-31 03:07:19,460] INFO [LogDirFailureHandler]: Stopped (kafka.server.ReplicaManager$LogDirFailureHandler)
+kafka         | [2025-05-31 03:07:19,460] INFO [LogDirFailureHandler]: Shutdown completed (kafka.server.ReplicaManager$LogDirFailureHandler)
+kafka         | [2025-05-31 03:07:19,461] INFO [ReplicaFetcherManager on broker 1] shutting down (kafka.server.ReplicaFetcherManager)
+kafka         | [2025-05-31 03:07:19,463] INFO [ReplicaFetcherManager on broker 1] shutdown completed (kafka.server.ReplicaFetcherManager)
+kafka         | [2025-05-31 03:07:19,463] INFO [ReplicaAlterLogDirsManager on broker 1] shutting down (kafka.server.ReplicaAlterLogDirsManager)
+kafka         | [2025-05-31 03:07:19,463] INFO [ReplicaAlterLogDirsManager on broker 1] shutdown completed (kafka.server.ReplicaAlterLogDirsManager)
+kafka         | [2025-05-31 03:07:19,464] INFO [ExpirationReaper-1-Fetch]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,466] INFO [ExpirationReaper-1-Fetch]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,466] INFO [ExpirationReaper-1-Fetch]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,466] INFO [ExpirationReaper-1-Produce]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,468] INFO [ExpirationReaper-1-Produce]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,468] INFO [ExpirationReaper-1-Produce]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,469] INFO [ExpirationReaper-1-DeleteRecords]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,470] INFO [ExpirationReaper-1-DeleteRecords]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,470] INFO [ExpirationReaper-1-DeleteRecords]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,471] INFO [ExpirationReaper-1-ElectLeader]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,472] INFO [ExpirationReaper-1-ElectLeader]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,472] INFO [ExpirationReaper-1-ElectLeader]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,474] INFO [ReplicaManager broker=1] Shut down completely (kafka.server.ReplicaManager)
+kafka         | [2025-05-31 03:07:19,474] INFO [broker-1-to-controller-alter-partition-channel-manager]: Shutting down (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 03:07:19,475] INFO [broker-1-to-controller-alter-partition-channel-manager]: Stopped (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 03:07:19,475] INFO [broker-1-to-controller-alter-partition-channel-manager]: Shutdown completed (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 03:07:19,476] INFO Broker to controller channel manager for alter-partition shutdown (kafka.server.BrokerToControllerChannelManagerImpl)
+kafka         | [2025-05-31 03:07:19,476] INFO [broker-1-to-controller-forwarding-channel-manager]: Shutting down (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 03:07:19,477] INFO [broker-1-to-controller-forwarding-channel-manager]: Stopped (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 03:07:19,477] INFO [broker-1-to-controller-forwarding-channel-manager]: Shutdown completed (kafka.server.BrokerToControllerRequestThread)
+kafka         | [2025-05-31 03:07:19,478] INFO Broker to controller channel manager for forwarding shutdown (kafka.server.BrokerToControllerChannelManagerImpl)
+kafka         | [2025-05-31 03:07:19,478] INFO Shutting down. (kafka.log.LogManager)
+kafka         | [2025-05-31 03:07:19,480] INFO Shutting down the log cleaner. (kafka.log.LogCleaner)
+kafka         | [2025-05-31 03:07:19,480] INFO [kafka-log-cleaner-thread-0]: Shutting down (kafka.log.LogCleaner$CleanerThread)
+kafka         | [2025-05-31 03:07:19,481] INFO [kafka-log-cleaner-thread-0]: Stopped (kafka.log.LogCleaner$CleanerThread)
+kafka         | [2025-05-31 03:07:19,481] INFO [kafka-log-cleaner-thread-0]: Shutdown completed (kafka.log.LogCleaner$CleanerThread)
+kafka         | [2025-05-31 03:07:19,512] INFO Shutdown complete. (kafka.log.LogManager)
+kafka         | [2025-05-31 03:07:19,513] INFO [broker-1-ThrottledChannelReaper-Fetch]: Shutting down (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,517] INFO [broker-1-ThrottledChannelReaper-Fetch]: Stopped (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,517] INFO [broker-1-ThrottledChannelReaper-Fetch]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,517] INFO [broker-1-ThrottledChannelReaper-Produce]: Shutting down (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,518] INFO [broker-1-ThrottledChannelReaper-Produce]: Stopped (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,518] INFO [broker-1-ThrottledChannelReaper-Produce]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,518] INFO [broker-1-ThrottledChannelReaper-Request]: Shutting down (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,518] INFO [broker-1-ThrottledChannelReaper-Request]: Stopped (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,518] INFO [broker-1-ThrottledChannelReaper-Request]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,519] INFO [broker-1-ThrottledChannelReaper-ControllerMutation]: Shutting down (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,519] INFO [broker-1-ThrottledChannelReaper-ControllerMutation]: Stopped (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,519] INFO [broker-1-ThrottledChannelReaper-ControllerMutation]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,520] INFO [SocketServer listenerType=BROKER, nodeId=1] Shutting down socket server (kafka.network.SocketServer)
+kafka         | [2025-05-31 03:07:19,529] INFO [SocketServer listenerType=BROKER, nodeId=1] Shutdown completed (kafka.network.SocketServer)
+kafka         | [2025-05-31 03:07:19,531] INFO Broker and topic stats closed (kafka.server.BrokerTopicStats)
+kafka         | [2025-05-31 03:07:19,531] INFO [BrokerLifecycleManager id=1] closed event queue. (org.apache.kafka.queue.KafkaEventQueue)
+kafka         | [2025-05-31 03:07:19,532] INFO [BrokerServer id=1] shut down completed (kafka.server.BrokerServer)
+kafka         | [2025-05-31 03:07:19,532] INFO [BrokerServer id=1] Transition from SHUTTING_DOWN to SHUTDOWN (kafka.server.BrokerServer)
+kafka         | [2025-05-31 03:07:19,533] INFO [ControllerServer id=1] shutting down (kafka.server.ControllerServer)
+kafka         | [2025-05-31 03:07:19,534] INFO [raft-expiration-reaper]: Shutting down (kafka.raft.TimingWheelExpirationService$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,729] INFO [raft-expiration-reaper]: Shutdown completed (kafka.raft.TimingWheelExpirationService$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,728] INFO [raft-expiration-reaper]: Stopped (kafka.raft.TimingWheelExpirationService$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,730] INFO [kafka-1-raft-io-thread]: Shutting down (kafka.raft.KafkaRaftManager$RaftIoThread)
+kafka         | [2025-05-31 03:07:19,730] INFO [RaftManager id=1] Beginning graceful shutdown (org.apache.kafka.raft.KafkaRaftClient)
+kafka         | [2025-05-31 03:07:19,732] INFO [RaftManager id=1] Graceful shutdown completed (org.apache.kafka.raft.KafkaRaftClient)
+kafka         | [2025-05-31 03:07:19,733] INFO [kafka-1-raft-io-thread]: Completed graceful shutdown of RaftClient (kafka.raft.KafkaRaftManager$RaftIoThread)
+kafka         | [2025-05-31 03:07:19,733] INFO [kafka-1-raft-io-thread]: Stopped (kafka.raft.KafkaRaftManager$RaftIoThread)
+kafka         | [2025-05-31 03:07:19,733] INFO [kafka-1-raft-io-thread]: Shutdown completed (kafka.raft.KafkaRaftManager$RaftIoThread)
+kafka         | [2025-05-31 03:07:19,741] INFO [kafka-1-raft-outbound-request-thread]: Shutting down (kafka.raft.RaftSendThread)
+kafka         | [2025-05-31 03:07:19,742] INFO [kafka-1-raft-outbound-request-thread]: Shutdown completed (kafka.raft.RaftSendThread)
+kafka         | [2025-05-31 03:07:19,741] INFO [kafka-1-raft-outbound-request-thread]: Stopped (kafka.raft.RaftSendThread)
+kafka         | [2025-05-31 03:07:19,750] INFO [ProducerStateManager partition=__cluster_metadata-0]Wrote producer snapshot at offset 1364 with 0 producer ids in 5 ms. (org.apache.kafka.storage.internals.log.ProducerStateManager)
+kafka         | [2025-05-31 03:07:19,758] INFO [SocketServer listenerType=CONTROLLER, nodeId=1] Stopping socket server request processors (kafka.network.SocketServer)
+kafka         | [2025-05-31 03:07:19,762] INFO [SocketServer listenerType=CONTROLLER, nodeId=1] Stopped socket server request processors (kafka.network.SocketServer)
+kafka         | [2025-05-31 03:07:19,765] INFO [QuorumController id=1] QuorumController#beginShutdown: shutting down event queue. (org.apache.kafka.queue.KafkaEventQueue)
+kafka         | [2025-05-31 03:07:19,765] ERROR [QuorumController id=1] writeNoOpRecord: unable to start processing because of RejectedExecutionException. Reason: null (org.apache.kafka.controller.QuorumController)
+kafka         | [2025-05-31 03:07:19,765] INFO [SocketServer listenerType=CONTROLLER, nodeId=1] Shutting down socket server (kafka.network.SocketServer)
+kafka         | [2025-05-31 03:07:19,770] INFO [SocketServer listenerType=CONTROLLER, nodeId=1] Shutdown completed (kafka.network.SocketServer)
+kafka         | [2025-05-31 03:07:19,771] INFO [data-plane Kafka Request Handler on Broker 1], shutting down (kafka.server.KafkaRequestHandlerPool)
+kafka         | [2025-05-31 03:07:19,771] INFO [data-plane Kafka Request Handler on Broker 1], shut down completely (kafka.server.KafkaRequestHandlerPool)
+kafka         | [2025-05-31 03:07:19,772] INFO [ExpirationReaper-1-AlterAcls]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,774] INFO [ExpirationReaper-1-AlterAcls]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,774] INFO [ExpirationReaper-1-AlterAcls]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+kafka         | [2025-05-31 03:07:19,775] INFO [controller-1-ThrottledChannelReaper-Fetch]: Shutting down (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,775] INFO [controller-1-ThrottledChannelReaper-Fetch]: Stopped (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,775] INFO [controller-1-ThrottledChannelReaper-Fetch]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,775] INFO [controller-1-ThrottledChannelReaper-Produce]: Shutting down (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,776] INFO [controller-1-ThrottledChannelReaper-Produce]: Stopped (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,776] INFO [controller-1-ThrottledChannelReaper-Produce]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,776] INFO [controller-1-ThrottledChannelReaper-Request]: Shutting down (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,776] INFO [controller-1-ThrottledChannelReaper-Request]: Stopped (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,776] INFO [controller-1-ThrottledChannelReaper-Request]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,777] INFO [controller-1-ThrottledChannelReaper-ControllerMutation]: Shutting down (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,777] INFO [controller-1-ThrottledChannelReaper-ControllerMutation]: Stopped (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,777] INFO [controller-1-ThrottledChannelReaper-ControllerMutation]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledChannelReaper)
+kafka         | [2025-05-31 03:07:19,777] INFO [QuorumController id=1] closed event queue. (org.apache.kafka.queue.KafkaEventQueue)
+kafka         | [2025-05-31 03:07:19,779] INFO [SharedServer id=1] Stopping SharedServer (kafka.server.SharedServer)
+kafka         | [2025-05-31 03:07:19,780] INFO [MetadataLoader id=1] beginShutdown: shutting down event queue. (org.apache.kafka.queue.KafkaEventQueue)
+kafka         | [2025-05-31 03:07:19,780] INFO [SnapshotGenerator id=1] close: shutting down event queue. (org.apache.kafka.queue.KafkaEventQueue)
+kafka         | [2025-05-31 03:07:19,780] INFO [SnapshotGenerator id=1] closed event queue. (org.apache.kafka.queue.KafkaEventQueue)
+kafka         | [2025-05-31 03:07:19,780] INFO [MetadataLoader id=1] closed event queue. (org.apache.kafka.queue.KafkaEventQueue)
+kafka         | [2025-05-31 03:07:19,780] INFO [SnapshotGenerator id=1] closed event queue. (org.apache.kafka.queue.KafkaEventQueue)
+kafka         | [2025-05-31 03:07:19,781] INFO Metrics scheduler closed (org.apache.kafka.common.metrics.Metrics)
+kafka         | [2025-05-31 03:07:19,782] INFO Closing reporter org.apache.kafka.common.metrics.JmxReporter (org.apache.kafka.common.metrics.Metrics)
+kafka         | [2025-05-31 03:07:19,782] INFO Metrics reporters closed (org.apache.kafka.common.metrics.Metrics)
+kafka         | [2025-05-31 03:07:19,782] INFO App info kafka.server for 1 unregistered (org.apache.kafka.common.utils.AppInfoParser)
+kafka         | [2025-05-31 03:07:19,782] INFO App info kafka.server for 1 unregistered (org.apache.kafka.common.utils.AppInfoParser)
